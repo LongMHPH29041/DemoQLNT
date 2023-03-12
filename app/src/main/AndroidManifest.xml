@@ -12,6 +12,9 @@
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
         <activity
+            android:name=".MainActivity3Ph29041"
+            android:exported="false" />
+        <activity
             android:name=".Cuongncph28957"
             android:exported="false">
             <meta-data
